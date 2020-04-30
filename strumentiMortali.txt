@@ -1,0 +1,34 @@
+un Fucile
+una Carabina
+un Express
+un Moschetto
+un Fucile a canna liscia
+una Doppietta
+una Lupara
+un Sovrapposto
+un Fucile a pompa
+un Fucile a canna liscia da combattimento
+un bolt-action
+un Fucile a leva
+un Fucile mitragliatore
+un Fucile da battaglia
+un Fucile anticarro
+un Fucile anti-materiale
+un Fucile d'assalto
+un Fucile semiautomatico
+un Lanciagranate
+un Mitra (SMG)
+una Pistola mitragliatrice
+una Mitragliera
+una Mazza
+una Clava
+un Tirapugni
+un Nunchaku
+una Padella
+uno Stura-cessi
+un Coltello
+una Spada
+un'Ascia
+una Daga
+una Falce
+una Sega
